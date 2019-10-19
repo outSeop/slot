@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>download the slot machine!</title>
+    <style media="screen">
+      h3{
+        text-align : center;
+      }
+    </style>
+  </head>
+  <body>
+    <h3>download the slot machine!</h3>
+    <hr>
+    <a href = "slot machine.exe">다운로드</a>
+  </body>
+</html>
